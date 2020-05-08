@@ -31,15 +31,21 @@ Este repositorio fué creado para compartir el trabajo práctico sobre bluetooth
 
 ![edu-ciaa](/images/edu-ciaa.jpg)
 
+
 ![hc05_uart_bridge](/images/hc05_uart_bridge.png)
+
 
 ![serial-bluetooth-terminal](/images/serial-bluetooth-terminal.jpg)
 
+
 ![cutecom-serial-terminal](/images/cutecom-serial-terminal.png)
+
 
 ![diseño-de-app](/images/diseño-de-app.png)
 
+
 ![codificacion-app](/images/codificacion-app.png)
+
 
 ![cel-app](/images/cel-app.jpg)
 
